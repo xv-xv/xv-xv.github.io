@@ -1,0 +1,58 @@
+:root
+{
+    background-color: #143642;
+    color: whitesmoke;
+    text-align: justify;
+}
+
+img
+{
+    display: block;
+    margin: auto;
+}
+
+h1 
+{
+    font-size: 42px;
+    color: #d8c1eb;
+    text-align: center;
+}
+
+h2, h3, h4, h5, h6 
+{
+    color: #d8c1eb;
+    font-size: 40px;
+    text-align: center;
+}
+
+a
+{
+    color: #ffc8c8;
+}
+
+.words
+{
+    color: #cceede;
+    font-size: 24px;
+    text-align: center;
+}
+
+.genres
+{
+    color: #d3e6be;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+li 
+{
+    text-align: left;
+    font-family: monospace;
+    font-size: 18px;
+    color: #ffc8c8;
+}
+
+.home
+{
+    height: 20px;
+}
