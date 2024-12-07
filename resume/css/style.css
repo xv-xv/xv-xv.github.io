@@ -1,0 +1,47 @@
+:root
+{
+  --UNC-Purple: #c698fa;
+  --UNC-White: #86c2f4;
+  --UNC-Blue: #013c65;
+}
+body
+{
+    background-color: var(--UNC-Blue);
+}
+*
+{
+    color: var(--UNC-White); 
+    text-align: center;
+}
+h1
+{
+    font-size: calc(16pt + 4vw);
+}
+nav
+{
+    border: 7px var(--UNC-Purple) solid;
+    margin: 8vw;
+    margin-top: 5px;
+}
+section
+{
+    border: 5px var(--UNC-White) solid; 
+    margin: 18vw;
+    margin-top: 30px;
+}
+.date
+{
+    color: var(--UNC-Purple); 
+    white-space: nowrap;
+}
+
+.date strong
+{
+    color: var(--UNC-Purple); 
+    white-space: nowrap;
+}
+ul
+{
+    list-style: none;
+    padding-left: 0px;
+}
